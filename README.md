@@ -1,1 +1,4 @@
-# HITOPIA---Problem-Solving-Test-
+# HITOPIA - Problem Solving Test 
+## Kevin Alnizar
+### Fullstack
+### kevinalnizar@gmail.com
