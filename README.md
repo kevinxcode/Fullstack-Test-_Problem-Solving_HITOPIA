@@ -2,6 +2,7 @@
 ## Kevin Alnizar
 ### Fullstack
 ### kevinalnizar@gmail.com
+### linkedin.com/in/kevinalnizar/
 ---
 # Question 
 
